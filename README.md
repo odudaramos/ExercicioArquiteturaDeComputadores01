@@ -1,2 +1,3 @@
 # ExercicioArquiteturaDeComputadores01
 # ExercicioArquiteturaDeComputadores01
+# ExercicioArquiteturaDeComputadores01
